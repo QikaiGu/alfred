@@ -1,4 +1,4 @@
-My Alfred 3 settings
+My Alfred settings
 ====================
 
 Usage
